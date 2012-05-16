@@ -1,0 +1,2 @@
+Simple tool written in ASM (using fasm) to dump the entire content of
+every usb storage device connected to the system
